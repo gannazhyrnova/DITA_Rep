@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_specifications">
+    <title>Step 2 - Create Specifications</title>
+    <taskbody>
+        <context>Create two specifications in the Specifications panel<p>To create Specifications,
+                do the following:</p></context>
+        <steps>
+            <step>
+                <cmd>Go to the Formula and open the <uicontrol>Specifications</uicontrol>
+                    panel</cmd>
+            </step>
+            <step>
+                <cmd>Click the <uicontrol>New Specification</uicontrol> button</cmd>
+                <info>
+                    <fig id="fig_m2r_gx5_j2c">
+                        <p>
+                            <fig id="fig_tty_hx5_j2c">
+                                <title>Click the New Specification button</title>
+                                <image href="images/new%20spec.jpg" id="image_uty_hx5_j2c">
+                                    <alt>Click the New Specification button</alt>
+                                </image>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>In the New Specification dialog, select the <uicontrol>Formula
+                        Specification</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Click the <uicontrol>OK</uicontrol> button.</cmd>
+            </step>
+            <step>
+                <cmd>Click the <uicontrol>New Specification</uicontrol> button and select
+                        <uicontrol>Label Specification</uicontrol> from the drop-down list.</cmd>
+                <info>
+                    <fig id="fig_ajy_3x5_j2c">
+                        <p>
+                            <fig id="fig_rp2_mx5_j2c">
+                                <title>Added Specifications</title>
+                                <image href="images/added%20spec.jpg" id="image_sp2_mx5_j2c">
+                                    <alt>Added Specifications</alt>
+                                </image>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

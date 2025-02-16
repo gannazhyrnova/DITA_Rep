@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/DITA/Course/create_the_finished_product.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Create the Finished Product</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Create the Finished Product</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="introduction"><resourceid appid="introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section describes how you can create a Finished Product from the         Formula</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="populate_the_formula_panels"><resourceid appid="populate_the_formula_panels" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Step 1 - Populate the formula panels</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section describes how to populate the formula panels</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="create_specifications"><resourceid appid="create_specifications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Step 2 - Create Specifications</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="create_the_finished_product"><resourceid appid="create_the_finished_product" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Step 3 - Create the Finished Product</navtitle><?ditaot gentext?></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="introduction" oid="introduction" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Introduction</ph></title>
+    <shortdesc class="- topic/shortdesc ">This section describes how you can create a Finished Product from the
+        Formula</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">To generate the Finished product, you must do the following:</p>
+        <ol class="- topic/ol " id="unique_1_Connect_42_ol_s4j_v55_j2c" nd:nd-id="ol_s4j_v55_j2c"><li class="- topic/li "><xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>Step 1 - Populate the Formula
+                    Panels<?ditaot genshortdesc?><desc class="- topic/desc ">This section describes how to populate the formula panels</desc></xref></li><li class="- topic/li "><xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>Step 2 - Create Specifications</xref></li><li class="- topic/li "><xref class="- topic/xref " href="#unique_4" type="task"><?ditaot usertext?>Step 3 - Create the Finished
+                    Product</xref></li></ol>
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="populate_the_formula_panels" oid="populate_the_formula_panels" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Step 1 - Populate the formula panels</ph></title>
+    <shortdesc class="- topic/shortdesc ">This section describes how to populate the formula panels</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">To populate panels, do the following:<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open the search panel and define <uicontrol class="+ topic/ph ui-d/uicontrol ">Formula</uicontrol> from the
+                    drop-down list:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_2_Connect_42_fig_gyw_2w5_j2c" nd:nd-id="fig_gyw_2w5_j2c"><p class="- topic/p ">
+                            <fig class="- topic/fig " id="unique_2_Connect_42_fig_okh_gw5_j2c" nd:nd-id="fig_okh_gw5_j2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Select Formula</ph></title><image class="- topic/image " dita-ot:image-width="970" dita-ot:image-height="405" href="file:/C:/DITA/Course/images/formula.jpg" id="unique_2_Connect_42_image_pkh_gw5_j2c" nd:nd-id="image_pkh_gw5_j2c" placement="inline">
+                                    <alt class="- topic/alt ">Select Formula</alt>
+                                </image></fig>
+                        </p></fig>
+                </info>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Populate the following panels:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_2_Connect_42_ul_gps_hw5_j2c" nd:nd-id="ul_gps_hw5_j2c"><li class="- topic/li ">Allergens</li><li class="- topic/li ">Dietary</li><li class="- topic/li ">Religious</li><li class="- topic/li ">Physical</li><li class="- topic/li ">Specifications</li><li class="- topic/li ">Chemical</li></ul>
+                </info>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_2_Connect_42_fig_rd5_kw5_j2c" nd:nd-id="fig_rd5_kw5_j2c"><p class="- topic/p ">
+                            <fig class="- topic/fig " id="unique_2_Connect_42_fig_gy2_4w5_j2c" nd:nd-id="fig_gy2_4w5_j2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Populate panels</ph></title><image class="- topic/image " dita-ot:image-width="835" dita-ot:image-height="764" href="file:/C:/DITA/Course/images/panels.jpg" id="unique_2_Connect_42_image_hy2_4w5_j2c" nd:nd-id="image_hy2_4w5_j2c" placement="inline">
+                                    <alt class="- topic/alt ">Populate panels</alt>
+                                </image></fig>
+                        </p></fig>
+                </info>
+            </step></steps>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="create_specifications" oid="create_specifications" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Step 2 - Create Specifications</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Create two specifications in the Specifications panel<p class="- topic/p ">To create Specifications,
+                do the following:</p></context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Go to the Formula and open the <uicontrol class="+ topic/ph ui-d/uicontrol ">Specifications</uicontrol>
+                    panel</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the <uicontrol class="+ topic/ph ui-d/uicontrol ">New Specification</uicontrol> button</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_3_Connect_42_fig_m2r_gx5_j2c" nd:nd-id="fig_m2r_gx5_j2c"><p class="- topic/p ">
+                            <fig class="- topic/fig " id="unique_3_Connect_42_fig_tty_hx5_j2c" nd:nd-id="fig_tty_hx5_j2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Click the New Specification button</ph></title><image class="- topic/image " dita-ot:image-width="689" dita-ot:image-height="250" href="file:/C:/DITA/Course/images/new%20spec.jpg" id="unique_3_Connect_42_image_uty_hx5_j2c" nd:nd-id="image_uty_hx5_j2c" placement="inline">
+                                    <alt class="- topic/alt ">Click the New Specification button</alt>
+                                </image></fig>
+                        </p></fig>
+                </info>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the New Specification dialog, select the <uicontrol class="+ topic/ph ui-d/uicontrol ">Formula
+                        Specification</uicontrol></cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the <uicontrol class="+ topic/ph ui-d/uicontrol ">OK</uicontrol> button.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the <uicontrol class="+ topic/ph ui-d/uicontrol ">New Specification</uicontrol> button and select
+                        <uicontrol class="+ topic/ph ui-d/uicontrol ">Label Specification</uicontrol> from the drop-down list.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_3_Connect_42_fig_ajy_3x5_j2c" nd:nd-id="fig_ajy_3x5_j2c"><p class="- topic/p ">
+                            <fig class="- topic/fig " id="unique_3_Connect_42_fig_rp2_mx5_j2c" nd:nd-id="fig_rp2_mx5_j2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Added Specifications</ph></title><image class="- topic/image " dita-ot:image-width="1193" dita-ot:image-height="369" href="file:/C:/DITA/Course/images/added%20spec.jpg" id="unique_3_Connect_42_image_sp2_mx5_j2c" nd:nd-id="image_sp2_mx5_j2c" placement="inline">
+                                    <alt class="- topic/alt ">Added Specifications</alt>
+                                </image></fig>
+                        </p></fig>
+                </info>
+            </step></steps>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="create_the_finished_product" oid="create_the_finished_product" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Step 3 - Create the Finished Product</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_gvh_1y5_j2c" nd:nd-id="prereq_gvh_1y5_j2c">
+            <note class="- topic/note " id="unique_4_Connect_42_note_ayp_by5_j2c" nd:nd-id="note_ayp_by5_j2c">To create the Finished product, first you need:<ul class="- topic/ul " id="unique_4_Connect_42_ul_r1k_dy5_j2c" nd:nd-id="ul_r1k_dy5_j2c"><li class="- topic/li "><xref class="- topic/xref " href="#unique_2" type="task"><?ditaot usertext?>Populate the Formula
+                            panels<?ditaot genshortdesc?><desc class="- topic/desc ">This section describes how to populate the formula panels</desc></xref></li><li class="- topic/li "><xref class="- topic/xref " href="#unique_3" type="task"><?ditaot usertext?>Create Specifications</xref></li></ul></note>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">To create the Finished product, do the following:</p>
+        </context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;19:45" xtrf="file:/C:/DITA/Course/create_the_finished_product.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Actions button</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">select Create Finished Product</uicontrol></menucascade> from the drop-down list.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_4_Connect_42_fig_hp1_cz5_j2c" nd:nd-id="fig_hp1_cz5_j2c"><p class="- topic/p ">
+                            <fig class="- topic/fig " id="unique_4_Connect_42_fig_vzf_dz5_j2c" nd:nd-id="fig_vzf_dz5_j2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Select Create Finished Product</ph></title><image class="- topic/image " dita-ot:image-width="810" dita-ot:image-height="376" href="file:/C:/DITA/Course/images/select%20create.jpg" id="unique_4_Connect_42_image_wzf_dz5_j2c" nd:nd-id="image_wzf_dz5_j2c" placement="inline">
+                                    <alt class="- topic/alt ">Select Create Finished Product</alt>
+                                </image></fig>
+                        </p></fig>
+                </info>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Create Finished Product dialog:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_4_Connect_42_ul_pbx_my5_j2c" nd:nd-id="ul_pbx_my5_j2c"><li class="- topic/li ">Fill in the name of the product</li><li class="- topic/li ">Click the <uicontrol class="+ topic/ph ui-d/uicontrol ">OK</uicontrol> button.</li></ul>
+                </info>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_4_Connect_42_fig_tgy_dz5_j2c" nd:nd-id="fig_tgy_dz5_j2c"><p class="- topic/p ">
+                            <fig class="- topic/fig " id="unique_4_Connect_42_fig_cwc_jz5_j2c" nd:nd-id="fig_cwc_jz5_j2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Create Finished Product dialog</ph></title><image class="- topic/image " dita-ot:image-width="715" dita-ot:image-height="473" href="file:/C:/DITA/Course/images/finished%20dialog.jpg" id="unique_4_Connect_42_image_dwc_jz5_j2c" nd:nd-id="image_dwc_jz5_j2c" placement="inline">
+                                    <alt class="- topic/alt ">Create Finished Product dialog</alt>
+                                </image></fig>
+                        </p></fig>
+                </info>
+            </step></steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_fvl_py5_j2c" nd:nd-id="result_fvl_py5_j2c">The system creates the Finished product and opens its
+            Navigator in the new tab.</result>
+    </taskbody>
+</task></map>

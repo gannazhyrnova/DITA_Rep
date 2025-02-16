@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Create the Finished Product</title>
+    <topicref href="introduction.dita"/>
+    <topicref href="populate_the_formula_panels.dita"/>
+    <topicref href="create_specifications.dita"/>
+    <topicref href="create_the_finished_product.dita"/>
+</map>

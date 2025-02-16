@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_the_finished_product">
+    <title>Step 3 - Create the Finished Product</title>
+    <taskbody>
+        <prereq id="prereq_gvh_1y5_j2c">
+            <note id="note_ayp_by5_j2c">To create the Finished product, first you need:<ul
+                    id="ul_r1k_dy5_j2c">
+                    <li><xref href="populate_the_formula_panels.dita">Populate the Formula
+                            panels</xref></li>
+                    <li><xref href="create_specifications.dita">Create Specifications</xref></li>
+                </ul></note>
+        </prereq>
+        <context>
+            <p>To create the Finished product, do the following:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click the <menucascade>
+                        <uicontrol>Actions button</uicontrol>
+                        <uicontrol>select Create Finished Product</uicontrol>
+                    </menucascade> from the drop-down list.</cmd>
+                <info>
+                    <fig id="fig_hp1_cz5_j2c">
+                        <p>
+                            <fig id="fig_vzf_dz5_j2c">
+                                <title>Select Create Finished Product</title>
+                                <image href="images/select%20create.jpg" id="image_wzf_dz5_j2c">
+                                    <alt>Select Create Finished Product</alt>
+                                </image>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>In the Create Finished Product dialog:</cmd>
+                <info>
+                    <ul id="ul_pbx_my5_j2c">
+                        <li>Fill in the name of the product</li>
+                        <li>Click the <uicontrol>OK</uicontrol> button.</li>
+                    </ul>
+                </info>
+                <info>
+                    <fig id="fig_tgy_dz5_j2c">
+                        <p>
+                            <fig id="fig_cwc_jz5_j2c">
+                                <title>Create Finished Product dialog</title>
+                                <image href="images/finished%20dialog.jpg" id="image_dwc_jz5_j2c">
+                                    <alt>Create Finished Product dialog</alt>
+                                </image>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+        <result id="result_fvl_py5_j2c">The system creates the Finished product and opens its
+            Navigator in the new tab.</result>
+    </taskbody>
+</task>

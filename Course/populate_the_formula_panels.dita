@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="populate_the_formula_panels">
+    <title>Step 1 - Populate the formula panels</title>
+    <shortdesc>This section describes how to populate the formula panels</shortdesc>
+    <taskbody>
+        <context>To populate panels, do the following:<p/></context>
+        <steps>
+            <step>
+                <cmd>Open the search panel and define <uicontrol>Formula</uicontrol> from the
+                    drop-down list:</cmd>
+                <info>
+                    <fig id="fig_gyw_2w5_j2c">
+                        <p>
+                            <fig id="fig_okh_gw5_j2c">
+                                <title>Select Formula</title>
+                                <image href="images/formula.jpg" id="image_pkh_gw5_j2c">
+                                    <alt>Select Formula</alt>
+                                </image>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Populate the following panels:</cmd>
+                <info>
+                    <ul id="ul_gps_hw5_j2c">
+                        <li>Allergens</li>
+                        <li>Dietary</li>
+                        <li>Religious</li>
+                        <li>Physical</li>
+                        <li>Specifications</li>
+                        <li>Chemical</li>
+                    </ul>
+                </info>
+                <info>
+                    <fig id="fig_rd5_kw5_j2c">
+                        <p>
+                            <fig id="fig_gy2_4w5_j2c">
+                                <title>Populate panels</title>
+                                <image href="images/panels.jpg" id="image_hy2_4w5_j2c">
+                                    <alt>Populate panels</alt>
+                                </image>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

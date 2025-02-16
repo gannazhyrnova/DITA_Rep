@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction">
+    <title>Introduction</title>
+    <shortdesc>This section describes how you can create a Finished Product from the
+        Formula</shortdesc>
+    <conbody>
+        <p>To generate the Finished product, you must do the following:</p>
+        <ol id="ol_s4j_v55_j2c">
+            <li><xref href="populate_the_formula_panels.dita">Step 1 - Populate the Formula
+                    Panels</xref></li>
+            <li><xref href="create_specifications.dita">Step 2 - Create Specifications</xref></li>
+            <li><xref href="create_the_finished_product.dita">Step 3 - Create the Finished
+                    Product</xref></li>
+        </ol>
+    </conbody>
+</concept>
